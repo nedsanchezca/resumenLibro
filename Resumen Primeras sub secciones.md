@@ -25,7 +25,7 @@ Pero vamos a empezar con un sonido simple unidimensional.
 
 Vamos a empezar con **señales periodicas**, que son señales que se repiten ellas mismas despues de un periodo de timepo. Por ejemplo, si se golpea una campana, vibra y genera sonido. Si almacenamos este sonido y lo graficamos la señal transducida se vera como la figura.
 <p align="center">
-  <img src="@attachment/imagen1.png" width="300">
+  <img src="imagen1.png" width="300">
 </p>
 
 Esta señal se asemeja a un sinusoide, lo que quiere decir que tiene la misma forma que la función trigonometríca seno. 
@@ -39,7 +39,7 @@ La frecuencia de esta señal es de 439 HZ aproximadamente, un poco mas bajo de 4
 Un diapasón genera un sinusoide porque las vibraciones de las pues es una forma de movimiento armonico simple. La mayoría de instrumentos musicales producen señales periodicas, pero la forma de estas señales no es sinusoidal. Por ejemplo un violín:
 
 <p align="center">
-  <img src="@attachment/imagen2.png" width="300">
+  <img src="imagen2.png" width="300">
 </p>
 
 Podemos ver que la señal es periodica, pero la forma de la señal es más compleja. La forma de una señal periodica es denominada **onda**. La mayoría de instrumentos musicales producen ondas mas complejas que un sinusoide. La forma de la onda determina el **timbre** músical, que es nuestra percepción de la calidad del sonido. Las personas usualmente perciven onda complejas como mas ricas, acogedoras e interesantes que los sinusoides.
@@ -55,7 +55,7 @@ Y el algoritmo mas importantes en este libro es la **Transformada rapída de Fou
 Por ejemplo, la figura nos muestra el espectro del violín anteriormente visto. El eje x es el rango de las frecuencias que hacen la señal. El eje y muestra la fuerza o **amplitud** de cada componente de la frecuencia.
 
 <p align="center">
-  <img src="@attachment/imagen3.png" width="300">
+  <img src="imagen3.png" width="300">
 </p>
 
 
